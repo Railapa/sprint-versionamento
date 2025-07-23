@@ -1,0 +1,12 @@
+SPRINT RETROSPECTIVE
+O que funcionou bem:
+- Versionamento com Git/GitHub
+- Divisão de tarefas em branches
+
+O que pode melhorar:
+- Atenção aos detalhes de sintaxe HTML
+- Revisão antes dos commits
+
+Sugestões:
+- Usar validadores HTML
+- Revisão por pares
